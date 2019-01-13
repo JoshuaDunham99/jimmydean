@@ -1,0 +1,49 @@
+.dogspace {
+  color: blue;
+  font-family: cursive;
+}
+
+.main-list li {
+  color: purple;
+  font-family: fantasy;
+  background-color: yellow;
+}
+
+.mymom {
+  color: orange;
+  font-family: monospace;
+  font-size: 30px
+  text-align: center
+}
+
+.mypops {
+  color: green;
+  font-family: fantasy;
+}
+
+.jimmy {
+  color: red;
+  font-family: cursive;
+  text-align: center;
+}
+.mommapicture {
+  color: black;
+  font-family: cursive;
+  text-align: center
+}
+.poppatext {
+  font-family: cursive;
+  text-align: center
+}
+
+p {
+  background-color: green;
+}
+
+h1 {
+  text-align: center
+}
+
+.middle {
+  text-align: center;
+}
